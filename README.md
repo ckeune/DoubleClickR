@@ -1,2 +1,2 @@
 # DoubleClickR
-A DoubleClick API for DFA / DCM
+A DoubleClick R package for DFA / DCM
